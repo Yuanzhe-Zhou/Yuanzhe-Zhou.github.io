@@ -1,2 +1,2 @@
-# Yuanzhe-Zhou.github.io
+# Docs
 Personal Website
