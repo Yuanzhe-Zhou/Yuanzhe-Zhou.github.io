@@ -1,3 +1,5 @@
-# Headline
+# 安装ubuntu到移动硬盘
 
-> An awesome project.
+> 安装ubuntu到移动固态硬盘中，实现在多台电脑上都可启动的目标 
+
+> 当然由于驱动的问题可能无法在一些机器上正常启动

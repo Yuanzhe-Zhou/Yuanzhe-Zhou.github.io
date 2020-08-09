@@ -4,17 +4,17 @@
 将ubuntu装入一个SSD中，实现随身携带的目的，并且可以随时插入另一台电脑使用SSD上的ubuntu系统。同理此文章不只适用ubuntu，大部分linux的安装思路是一样的。
 # 设备
 * surface pro 4, 5, 6（当然正常的支持ubuntu的电脑都是可以的）
-* [Samsung T5 Portable SSD - 500GB - USB 3.1 External SSD (MU-PA500B/AM)](https://www.amazon.com/Samsung-T5-Portable-SSD-MU-PA500B/dp/B073GZBT36/ref=sr_1_3?ie=UTF8&qid=1535313863&sr=8-3&keywords=samsung+500gb+external+ssd)
+* Samsung T5 Portable SSD - 500GB - USB 3.1 External SSD (MU-PA500B/AM)
 * USB hub（surface pro只有一个USB接口）
 * USB stick - 8GB（作为安装ubuntu的启动媒介）
 
 # 步骤
 ## 1.下载ubuntu
-这篇文章使用ubuntu桌面发行版[18.04.1 LTS](https://www.ubuntu.com/download/desktop)，下载对应的iso文件 - ubuntu-18.04.1-desktop-amd64.iso
+这篇文章使用ubuntu桌面发行版18.04.1 LTS，下载对应的iso文件 - ubuntu-18.04.1-desktop-amd64.iso
 ## 2.将USB stick制作为启动盘
 这里有多种方法：
-* [Rufus](https://rufus.akeo.ie/)
-* [Etcher](https://etcher.io/)
+* Rufus
+* Etcher
 * linux的dd命令
 
 ## 3.安装系统
